@@ -2,6 +2,8 @@
 
 Construo **agentes de IA para operação**: sistemas que monitoram canais, filas e e-mails e agem com regras claras.
 
+🌱 Em desenvolvimento para uma nova atuação, **de operador para construtor** (builder) de soluções com IA. Este perfil registra essa trajetória.
+
 ## No que estou trabalhando
 
 - **[nexus-agent-squad](https://github.com/matheus96daniel/nexus-agent-squad)**: um agente unificado que reúne seis agentes de operação como skills, com guardrails, estado durável e rotinas locais e na nuvem.
