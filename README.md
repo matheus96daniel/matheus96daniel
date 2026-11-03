@@ -21,4 +21,4 @@ Construo **agentes de IA para operação**: sistemas que monitoram canais, filas
 
 ## Contato
 
-[LinkedIn](https://www.linkedin.com/) · matheus.ferreira@woba.com.br
+matheus96daniel@gmail.com
